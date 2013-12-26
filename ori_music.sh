@@ -8,7 +8,7 @@ M_INPUT=~/music/_music.fifo
 
 OK=0;
 SQL_LINE="select file from track where";
-DB_FILE='~/music/_music.db';	# default value 
+DB_FILE=~/music/_music.db;	# default value 
 PLAYLIST='/tmp/ori_playlist';
 AUTOREMOVE=1;
 PLAY=0;
